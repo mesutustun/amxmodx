@@ -26,13 +26,13 @@ EXTED_MAP = Produzi mapu %s
 TIME_CHOOSE = Vreme je da se izabere sledeca map...
 
 [tr]
-CHO_FIN_EXT = Oylama bitmisdir. Su anki map %.0f dakika uzatilacakdir
-CHO_FIN_NEXT = Oylama bitmisdir. Secilen map ise %s
-CHOSE_EXT = %s Map uzatilmasini secin
-X_CHOSE_X = %s Secin %s
-CHOOSE_NEXTM = AMX diger map secimi
-EXTED_MAP = %s Map surecini uzat
-TIME_CHOOSE = Yeni map secimi baslamisdir...
+CHO_FIN_EXT = Oylama bitmiştir. Şu anki harita %.0f dakika uzatılacak
+CHO_FIN_NEXT = Oylama bitmiştir. Seçilen harita %s
+CHOSE_EXT = %s Harita uzatılmayı seçti
+X_CHOSE_X = %s Seçtiği %s
+CHOOSE_NEXTM = AMX sonraki harita seçimi
+EXTED_MAP = %s Haritayı uzat
+TIME_CHOOSE = Yeni harita seçimi başlamıştır...
 
 [fr]
 CHO_FIN_EXT = Les choix sont termines. La carte est prolongee de %.0f minutes
