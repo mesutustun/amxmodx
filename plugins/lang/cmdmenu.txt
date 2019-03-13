@@ -14,9 +14,9 @@ CONF_MENU = Podesavanja
 SPE_MENU = Govorne Komande
 
 [tr]
-CMD_MENU = Emir Menusu
-CONF_MENU = Configler Menusu
-SPE_MENU = Konusma Menusu
+CMD_MENU = Emir Menü
+CONF_MENU = Yapılandırma Menü
+SPE_MENU = Konuşma Menü
 
 [fr]
 CMD_MENU = Menu Commandes
