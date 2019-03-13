@@ -45,10 +45,10 @@ SQL_CANT_LOAD_ADMINS = SQL hatasi: admin yuklenemiyor: '%s'
 NO_ADMINS = Hic admin bulunamadi.
 SQL_LOADED_ADMIN = 1 Admin dosyadan yuklendi
 SQL_LOADED_ADMINS = %d Admin ana hafizadan yuklendi
-INV_PAS = Hatali kod!
-PAS_ACC = Kod onaylandi
-PRIV_SET = Haklar onaylandi
-NO_ENTRY = Servere giris hakkiniz yok...
+INV_PAS = Sifre hatali!
+PAS_ACC = Sifre kabul edildi
+PRIV_SET = Haklar kabul edildi
+NO_ENTRY = Sunucuya giremezsiniz...
 
 [fr]
 LOADED_ADMIN = 1 admin a ete charge depuis le fichier
