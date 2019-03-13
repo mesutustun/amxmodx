@@ -56,23 +56,23 @@ NO_CMDS = Nema dostupnih komandi
 CANT_PERF_PLAYER = Komanda ne moze biti izvrsena na igrac "%s"
 
 [tr]
-ADMIN_BAN_1 = ADMIN: ban %s
-ADMIN_BAN_2 = ADMIN %s: ban %s
-BAN_MENU = Ban Menusu
-BAN_FOR_MIN = Ban %d dakika olarak
-BAN_PERM = Ban suresiz
-SLAP_SLAY_MENU = Tokatla/oldur menusu
-SLAP_WITH_DMG = Tokatla %d zarar ile
-SLAY = Oldur
-KICK_MENU = Atma menusu
-ADMIN_TRANSF_1 = ADMIN: takim %s goc %s
-ADMIN_TRANSF_2 = ADMIN %s: takim %s goc %s
-TEAM_MENU = Takim menu
-TRANSF_TO = %s takima goc
-TRANSF_SILENT = sessiz Transferi
-CL_CMD_MENU = Oyuncu Emir Menusu
-NO_CMDS = Emir mevcud degildir
-CANT_PERF_PLAYER = Oyuncu uzerinde bunu yapamazsiniz "%s"
+ADMIN_BAN_1 = ADMIN: %s yasakladı
+ADMIN_BAN_2 = ADMIN %s: %s yasakladı
+BAN_MENU = Yasak Menü
+BAN_FOR_MIN = %d dakika yasaklandı
+BAN_PERM = Kalıcı Yasak
+SLAP_SLAY_MENU = Tokatla/öldür menü
+SLAP_WITH_DMG = %d zarar ile tokatla
+SLAY = Öldür
+KICK_MENU = Atma Menü
+ADMIN_TRANSF_1 = ADMIN: takım %s nakil %s
+ADMIN_TRANSF_2 = ADMIN %s: takım %s nakil %s
+TEAM_MENU = Takım menü
+TRANSF_TO = %s takıma naklet
+TRANSF_SILENT = sessiz nakil
+CL_CMD_MENU = Oyuncu Emir Menü
+NO_CMDS = Emir mevcut değil
+CANT_PERF_PLAYER = Oyuncu üzerinde bunu yapamazsınız "%s"
 
 [fr]
 ADMIN_BAN_1 = ADMIN: banni %s
