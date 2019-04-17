@@ -38,17 +38,17 @@ PRIV_SET = Privilegije podesene
 NO_ENTRY = Nemate pristup serveru...
 
 [tr]
-LOADED_ADMIN = 1 Admin yuklendi
-LOADED_ADMINS = %d Admin dosyadan yuklendi
-SQL_CANT_CON = SQL hatasi: baglanamiyor: '%s'
-SQL_CANT_LOAD_ADMINS = SQL hatasi: admin yuklenemiyor: '%s'
-NO_ADMINS = Hic admin bulunamadi.
-SQL_LOADED_ADMIN = 1 Admin dosyadan yuklendi
-SQL_LOADED_ADMINS = %d Admin ana hafizadan yuklendi
-INV_PAS = Hatali kod!
-PAS_ACC = Kod onaylandi
-PRIV_SET = Haklar onaylandi
-NO_ENTRY = Servere giris hakkiniz yok...
+LOADED_ADMIN = 1 yönetici dosyadan yüklendi
+LOADED_ADMINS = %d yönetici dosyadan yüklendi
+SQL_CANT_CON = SQL hatası: bağlanamıyor: '%s'
+SQL_CANT_LOAD_ADMINS = SQL hatası: yönetici yüklenemiyor: '%s'
+NO_ADMINS = Yönetici bulunamadı.
+SQL_LOADED_ADMIN = Veritabanından 1 yönetici yüklendi
+SQL_LOADED_ADMINS = Veritabanından %d yönetici yüklendi
+INV_PAS = Geçersiz Şifre!
+PAS_ACC = Şifre kabûl edildi
+PRIV_SET = Haklar kabûl edildi
+NO_ENTRY = Sunucuya giremezsiniz...
 
 [fr]
 LOADED_ADMIN = 1 admin a ete charge depuis le fichier
