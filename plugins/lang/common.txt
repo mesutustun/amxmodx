@@ -66,25 +66,25 @@ OFF = Iskljucen
 
 [tr]
 BACK = Geri
-EXIT = Cikis
+EXIT = Çık
 MORE = Daha
-NONE = Hic
+NONE = Hiç
 ADMIN = ADMIN
 PLAYER = Oyuncu
-ERROR = hata
-YES = evet
-NO = hayir
-BAN = ban
+ERROR = hatâ
+YES = Evet
+NO = Hayır
+BAN = yasak
 KICK = at
-NO_ACC_COM = O emiri kullanma hakkiniz yok
-USAGE = kullanim
-MORE_CL_MATCHT = Aradiginiz konuya uygun oyuncular
-CL_NOT_FOUND = O isimde oyuncu yada kullaniciID'si bulunamadi
-CLIENT_IMM = "%s" oyuncunun dokunulmazligi var
-CANT_PERF_DEAD = Bunu olu bir oyuncunun uzerinde yapamazsiniz "%s"
-CANT_PERF_BOT = Bot uzerinde bunu yapamazsiniz "%s"
-ON = Acik
-OFF = Kapali
+NO_ACC_COM = Bu emire erişim yetkiniz yok
+USAGE = Kullanım
+MORE_CL_MATCHT = Aradığınız kişiye ilişkin oyuncular var
+CL_NOT_FOUND = Bu isimde oyuncu yada kullanıcı hüviyeti bulunamadı
+CLIENT_IMM = "%s" oyuncunun dokunulmazlığı var
+CANT_PERF_DEAD = Bunu ölü bir oyuncunun üzerinde yapamazsınız "%s"
+CANT_PERF_BOT = Bot üzerinde bunu yapamazsınız "%s"
+ON = Açık
+OFF = Kapalı
 
 [fr]
 BACK = Retour
