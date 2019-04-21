@@ -39,16 +39,16 @@ PRINT_ALL = (SVE) %s : %s
 
 [tr]
 COL_WHITE = beyaz
-COL_RED = kirmizi
-COL_GREEN = yesil
-COL_BLUE = mavi
-COL_YELLOW = sari
-COL_MAGENTA = magenta
-COL_CYAN = cian
+COL_RED = kırmızı
+COL_GREEN = yeşil
+COL_BLUE = mâvi
+COL_YELLOW = sarı
+COL_MAGENTA = eflâtun
+COL_CYAN = camgöbeği
 COL_ORANGE = turuncu
-COL_OCEAN = deniz
+COL_OCEAN = deniz mâvisi
 COL_MAROON = kahverengi
-PRINT_ALL = (HEPSI) %s : %s
+PRINT_ALL = (HERKESE) %s : %s
 
 [fr]
 COL_WHITE = blanc
